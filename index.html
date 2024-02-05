@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+  <meta charset=UTF-8>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JS Quotes App</title>
+  <script src="scripts/data.js"></script>
+  <script src="scripts/main.js"></script>
+  <script src="https://kit.fontawesome.com/b607f521aa.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="css/stylenorm.css">
+  <link rel="stylesheet" href="css/paper.min.css">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <nav>
+    <a href=""><h3 id="navLogo">JobFinder!</h3></a>
+  </nav>
+  <section id="main">
+    <h3 id="jobTitle"> </h3>
+    <div id="imgPlace">
+      <img id="jobImg" src="images/LookingForAJob.jpeg">
+    </div>
+    <div id="buttons">
+      <button onclick="changeQuote()">Click To Find a New Job</button>
+      <button onclick="addJob()" id="add">+</button>
+    </div>
+    <div id="savedSection">
+      <h3 id="savedTitle">Saved Jobs</h3>
+      <section id="savedJobs"></section>
+    </div>
+  </section>
+</body>
+</html>
