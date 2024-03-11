@@ -1,98 +1,122 @@
 data = [
   {
     job: "Architect",
-    img: "images/Architect.jpeg"
+    img: "images/Architect.jpeg",
+    type: "Cat"
   },
   {
     job: "Astronaut",
-    img: "images/Astronaut.jpeg"
+    img: "images/Astronaut.jpeg",
+    type: "Dog"
   },
   {
     job: "Barista",
-    img: "images/Barista.jpeg"
+    img: "images/Barista.jpeg",
+    type: "Cat"
   },
   {
     job: "NBA Player",
-    img: "images/BasketballPlayer.jpeg"
+    img: "images/BasketballPlayer.jpeg",
+    type: "Dog"
   },
   {
     job: "Cashier",
-    img: "images/Cashier.jpeg"
+    img: "images/Cashier.jpeg",
+    type: "Cat"
   },
   {
     job: "Comedian",
-    img: "images/Comedian.webp"
+    img: "images/Comedian.webp",
+    type: "Dog"
   },
   {
     job: "Competitive Eater",
-    img: "images/CompetitiveEater.jpeg"
+    img: "images/CompetitiveEater.jpeg",
+    type: "Dog"
   },
   {
     job: "Doctor",
-    img: "images/Doctor.jpeg"
+    img: "images/Doctor.jpeg",
+    type: "Cat"
   },
   {
     job: "Dog Walker",
-    img: "images/DogWalker.jpeg"
+    img: "images/DogWalker.jpeg",
+    type: "Dog"
   },
   {
     job: "Engineer",
-    img: "images/Engineer.jpeg"
+    img: "images/Engineer.jpeg",
+    type: "Cat"
   },
   {
     job: "Firefighter",
-    img: "images/Firefighter.jpeg"
+    img: "images/Firefighter.jpeg",
+    type: "Dog"
   },
   {
     job: "Instacart Worker",
-    img: "images/Instacart.webp"
+    img: "images/Instacart.webp",
+    type: "Cat"
   },
   {
     job: "Librarian",
-    img: "images/Librarian.jpeg"
+    img: "images/Librarian.jpeg",
+    type: "Dog"
   },
   {
     job: "Mailman",
-    img: "images/Mailman.webp"
+    img: "images/Mailman.webp",
+    type: "Cat"
   },
   {
     job: "Model",
-    img: "images/Model.jpeg"
+    img: "images/Model.jpeg",
+    type: "Dog"
   },
   {
     job: "Musician",
-    img: "images/Musician.jpeg"
+    img: "images/Musician.jpeg",
+    type: "Dog"
   },
   {
     job: "Plumber",
-    img: "images/Plumber.jpeg"
+    img: "images/Plumber.jpeg",
+    type: "Cat"
   },
   {
     job: "Police Officer",
-    img: "images/PoliceOfficer.webp"
+    img: "images/PoliceOfficer.webp",
+    type: "Dog"
   },
   {
     job: "Professional Wrestler",
-    img: "images/ProWrestler.png"
+    img: "images/ProWrestler.png",
+    type: "Cat"
   },
   {
     job: "Security",
-    img: "images/Security.jpeg"
+    img: "images/Security.jpeg",
+    type: "Cat"
   },
   {
     job: "Skater",
-    img: "images/skaterCat.webp"
+    img: "images/skaterCat.webp",
+    type: "Cat"
   },
   {
     job: "Soccer Player",
-    img: "images/SoccerPlayer.jpeg"
+    img: "images/SoccerPlayer.jpeg",
+    type: "Dog"
   },
   {
     job: "Software Engineer",
-    img: "images/SoftwareEngineer.jpeg"
+    img: "images/SoftwareEngineer.jpeg",
+    type: "Cat"
   },
   {
     job: "Teacher",
-    img: "images/TeacherDog.jpeg"
+    img: "images/TeacherDog.jpeg",
+    type: "Dog"
   }
 ]
